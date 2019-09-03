@@ -79,7 +79,7 @@ img {
     text-align: center;
     padding: 1rem 3rem;
     margin: 2rem 0;
-    color: #ffffff;
+    color: #b1b1b1;
     text-decoration: none;
     font-family: 'PT Sans', sans-serif;
     font-weight: 700;
@@ -90,6 +90,7 @@ img {
 }
 .btn:hover {
     cursor: pointer;
+    color: #ffffff;
 }
 @media (min-width: 768px) {
     .btn {
